@@ -1,0 +1,3 @@
+-  Hi, I’m @cnwesleywong
+- I’m interested in fintech
+- I’m currently learning defi
